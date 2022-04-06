@@ -1,7 +1,7 @@
 # SEARCH25
 ## name: Jianing Li
 
-This project contains Final information retrieval system with querybiased, intending to provide searching among middle among of files (<300k)
+This project contains final information retrieval system with querybiased, intending to provide searching among middle amount of files (<300k)
  ```
 ─ Main.java
         ─ BM25.java
