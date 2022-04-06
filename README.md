@@ -1,8 +1,7 @@
-# MSCI 720 Assignment 5
+# SEARCH25
 ## name: Jianing Li
-#### WatIAM: j2534li
-#### Student number: 20899171
-This project contains Final information retrieval system with querybiased
+
+This project contains Final information retrieval system with querybiased, intending to provide searching among middle among of files (<300k)
  ```
 ─ Main.java
         ─ BM25.java
